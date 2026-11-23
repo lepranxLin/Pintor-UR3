@@ -5,7 +5,7 @@ import math
 import reading
 from rtde_receive import RTDEReceiveInterface
 
-velocity = 0.3
+velocity = 0.25
 aceleration = 0.05
 TOLERANCE = 0.001   # 1 mm
 TIMEOUT = 30        # seconds
